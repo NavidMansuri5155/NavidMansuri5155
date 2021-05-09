@@ -31,6 +31,7 @@ I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have s
 
 #### Top Technologies
 
+<img align="right" width="500px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
@@ -50,8 +51,8 @@ I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have s
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV]()
-- :email: iamnavidmansuri@gmail.com 
+- :paperclip: [My Resume/CV]()             
+- :email: iamnavidmansuri@gmail.com   
 - :email: navid19@navgurukul.org
 
 
