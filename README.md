@@ -1,21 +1,13 @@
 
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hola I'm [Navid Mansuri](https://github.com/NavidMansuri5155) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"  alt="hi">
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hola I'm [Navid Mansuri](https://github.com/NavidMansuri5155) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"  alt="hi">
 
-<br/>
+<hr />
 
 I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have studied in [Navgurukul](https://navgurukul.org/) inside Himachal Pradesh.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@NAVIDMANSURI7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipnywis)](@NAVIDMANSURI7) 
-
-[![GitHub followers](https://img.shields.io/github/followers/8?color=withe&label=GitHub&logo=Github&style=social)](https://github.com/NavidMansuri5155)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Navid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabizada-navid-mansuri-165b921a6/)
-
- [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nabizada_navid_mansuri/) 
- 
- [![Mail Badge](https://img.shields.io/badge/-navidmansuri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](iamnavidmansuri@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@NAVIDMANSURI7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipnywis)](@NAVIDMANSURI7) [![GitHub followers](https://img.shields.io/github/followers/8?color=withe&label=GitHub&logo=Github&style=social)](https://github.com/NavidMansuri5155) [![Linkedin Badge](https://img.shields.io/badge/-Navid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabizada-navid-mansuri-165b921a6/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nabizada_navid_mansuri/) [![Mail Badge](https://img.shields.io/badge/-navidmansuri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](iamnavidmansuri@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -31,7 +23,7 @@ I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have s
 
 #### Top Technologies
 
-<img align="right" width="500px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" height="300px"  width="600px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
@@ -49,6 +41,7 @@ I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have s
 
 <br />
 <br />
+
 
 #### Bizness
 - :paperclip: [My Resume/CV]()             
@@ -80,6 +73,15 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 #### Github Stats
 
 [![Navid GitHub stats](https://github-readme-stats.vercel.app/api?username=NavidMansuri5155&hide=contribs,prs&theme=tokyonight)](https://github.com/NavidMansuri5155/github-readme-stats)
+
+#### Friend
+<img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/44016225?v=4"><a href="https://github.com/anandpatel504"></a></img>
+<img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/62738420?v=4"><a href="https://github.com/rameshinumulas"></a></img>
+<img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/61968702?v=4"><a href="https://github.com/umesh8800"></a></img>
+<img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/68850504?v=4"><a href="https://github.com/bijender2002"></a></img>
+<img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/54570265?v=4"><a href="https://github.com/shabidkhan"></a></img>
+<img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/81804146?v=4"><a href="https://github.com/skajmera"></a></img>
+
 
 
 </details>
