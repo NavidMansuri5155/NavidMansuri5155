@@ -62,15 +62,11 @@ I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have s
 
 I love sharing knowledge and putting code in [GitHub](https://github.com/NavidMansuri5155),To help other developers and to get some help, And by the way, my GitHub is the spot for you :😄
 
-#### What is GitHub?
-
+#### What is GitHub? <img  width="300px" align="right" src="https://connectnigeria.com/articles/wp-content/uploads/2018/11/GitHub-2.png" alt="github..." />
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests.
 
-<img src="https://connectnigeria.com/articles/wp-content/uploads/2018/11/GitHub-2.png" alt="github..." />
 
-
-
-#### Github Stats
+#### Github Stats 
 
 [![Navid GitHub stats](https://github-readme-stats.vercel.app/api?username=NavidMansuri5155&hide=contribs,prs&theme=tokyonight)](https://github.com/NavidMansuri5155/github-readme-stats)
 
