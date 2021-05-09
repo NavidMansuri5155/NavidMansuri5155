@@ -3,7 +3,7 @@
 
 <br/>
 
-I am a Navid Mansoori from Gujarat, a web developer (software engineer), I have studied in [Navgurukul](https://navgurukul.org/) inside Himachal Pradesh.
+I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have studied in [Navgurukul](https://navgurukul.org/) inside Himachal Pradesh.
 
 :mailbox: Reach me out!
 
