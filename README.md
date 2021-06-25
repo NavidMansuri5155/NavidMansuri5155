@@ -44,7 +44,7 @@ I am a Navid Mansuri from Gujarat, a web developer (software engineer), I have s
 
 
 #### Bizness
-- :paperclip: [My Resume/CV]()             
+- :paperclip: [My Resume/CV](https://github.com/NavidMansuri5155/NavidMansuri5155/blob/main/ReSume.pdf)             
 - :email: iamnavidmansuri@gmail.com   
 - :email: navid19@navgurukul.org
 
