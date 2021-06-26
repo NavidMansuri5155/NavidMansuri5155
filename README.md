@@ -79,7 +79,6 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 <img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/81804146?v=4"><a href="https://github.com/skajmera"></a></img>
 
 
-
 </details>
 
 
