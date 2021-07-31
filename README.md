@@ -68,7 +68,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
  
  ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://camo.githubusercontent.com/b8530f569a5344d7608ef0ddd634336bddbf9aff943e41a1601dd2bb41bff283/68747470733a2f2f6e6f7661746f72656d2e7468656e756b6164696e756a617961726174686e612e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 #### Github Stats 
